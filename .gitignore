@@ -7,6 +7,7 @@ target/
 .ipynb_checkpoints/
 __pycache__/
 .jython_cache/
+data/
 
 ### STS ###
 .apt_generated
